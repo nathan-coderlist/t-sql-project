@@ -4,11 +4,11 @@ In this repo is the schema for a SQL Server database and sample data to practice
 
 ## What do you need to do?
 
-Please clone this repo onto your local machine. Once you’ve cloned the repo, please create a new branch with your name followed by t-sql as the branch name. For example:
+Please clone this repo onto your local machine. For example:
 
 *nathan-monte-t-sql*
 
-Below you will find a set of challenges to complete, that will utilised your T-SQL skills. You will need to create a SQL file with your T-SQL for the challenge. Please name your file in the following format:
+Below you will find a set of challenges to complete, that will utilised your T-SQL skills. You will need to create a SQL file with your T-SQL for the challenge. You'll need to save your code samples to the folder called 'submission'. Please name your file in the following format:
 
 *<question-number>.sql*
 
