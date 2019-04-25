@@ -10,11 +10,11 @@ Please clone this repo onto your local machine. For example:
 
 Below you will find a set of challenges to complete, that will utilised your T-SQL skills. You will need to create a SQL file with your T-SQL for the challenge. You'll need to save your code samples to the folder called 'submission'. Please name your file in the following format:
 
-*<question-number>.sql*
+*question-number.sql*
 
 For example:
 
-*1.sql.*
+*1.sql*
 
 ## Notes on acceptable help
 
