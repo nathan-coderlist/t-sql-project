@@ -8,6 +8,8 @@ Please clone this repo onto your local machine. For example:
 
 *nathan-monte-t-sql*
 
+You'll need to run the two .sql files to setup the DB. First run db-creation.sql, and on completion run data-import.sql.
+
 Below you will find a set of challenges to complete, that will utilised your T-SQL skills. You will need to create a SQL file with your T-SQL for the challenge. You'll need to save your code samples to the folder called 'submission'. Please name your file in the following format:
 
 *question-number.sql*
